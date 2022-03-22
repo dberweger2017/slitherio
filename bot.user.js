@@ -1,6 +1,17 @@
 
-// ==UserScript==
 // Creator: dberweger2017
+
+// ==UserScript==
+// @name         Slither.io Bot Using neural networks
+// @namespace    https://github.com/dberweger2017/slitherio/edit/main/bot.user.js
+// @version      3.0.5
+// @description  Slither.io Bot Using neural networks
+// @author       Davide Berweger
+// @match        http://slither.io/
+// @updateURL    https://github.com/dberweger2017/slitherio/raw/main/bot.user.js
+// @downloadURL  https://github.com/dberweger2017/slitherio/raw/main/bot.user.js
+// @grant        none
+// ==/UserScript==
 
 // Custom logging function - disabled by default
 window.log = function () {
