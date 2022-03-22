@@ -1,22 +1,6 @@
-/*
-The MIT License (MIT)
- Copyright (c) 2016 Jesse Miller <jmiller@jmiller.com>
- Copyright (c) 2016 Alexey Korepanov <kaikaikai@yandex.ru>
- Copyright (c) 2016 Ermiya Eskandary & Théophile Cailliau and other contributors
- https://jmiller.mit-license.org/
-*/
+
 // ==UserScript==
-// @name         Slither.io Bot Championship Edition
-// @namespace    https://github.com/j-c-m/Slither.io-bot
-// @version      3.0.5
-// @description  Slither.io Bot Championship Edition
-// @author       Jesse Miller
-// @match        http://slither.io/
-// @updateURL    https://github.com/j-c-m/Slither.io-bot/raw/master/bot.user.js
-// @downloadURL  https://github.com/j-c-m/Slither.io-bot/raw/master/bot.user.js
-// @supportURL   https://github.com/j-c-m/Slither.io-bot/issues
-// @grant        none
-// ==/UserScript==
+// Creator: dberweger2017
 
 // Custom logging function - disabled by default
 window.log = function () {
